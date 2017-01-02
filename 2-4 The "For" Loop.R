@@ -5,5 +5,5 @@ while (counter < 12) {
 }
 
 for (i in 1:5) {
-  print("Fuck")
+  print("Hi")
 }
