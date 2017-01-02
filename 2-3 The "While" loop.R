@@ -1,5 +1,5 @@
 while (T) {
-  print("Fuck")
+  print("Hi")
 }
 
 counter <- 1
